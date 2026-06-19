@@ -29,3 +29,10 @@ chroma_db/
 
 # Logs
 *.log
+
+# Vector database
+chroma_db/
+
+# Uploaded files
+uploaded.pdf
+uploaded/
